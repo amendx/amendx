@@ -19,5 +19,5 @@ A full-time open-hearted :purple_heart:, free-minded :sunglasses: and cat-lover 
  - :green_heart: In love with **CSS & JavaScript**
  - :ghost: A built-in jorney with _Angular, Vue.js and React_. Gosh, I love those guys. 
  - :bicyclist: Biking around this world learning on how to always get to the point. 
- - :recycle: We're far away from perfection, actually we're closer to the edge, but always smiling and making the best of it.
+ - :recycle: We're far away from perfection, actually we're closer to the edge, but always smiling and making the best out of it.
  - :sparkles: @codepwr on instagram: tips for beginners and support for women in technology. Support woman who code**, actually, support **_anyone_** who code! but of course we **can do it**.
