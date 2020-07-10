@@ -8,7 +8,7 @@
 
 ### Wow!! Be careful! We're working over here...
 
-![code-baby](https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/source.gif| width=150)
+![code-baby](https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/source.gif){:height="50%" width="50%"}
 
 > This is my UX ... somehow he always get it :sun_with_face:
 
