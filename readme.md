@@ -8,9 +8,9 @@
 
 ### Wow!! Be careful! We're working over here...
 
-![code-baby](https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/source.gif)
+![code-baby](https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/source.gif =150x150)
 
-## This is my UX ... somehow he always get it :sun_with_face:
+>> This is my UX ... somehow he always get it :sun_with_face:
 
 But let's talk about *moi*! My name is Amanda and I'm front-end developer.
 Also, I'm a huge fan of sports, cats and **coooooofffeeeeee** :coffee:. 
