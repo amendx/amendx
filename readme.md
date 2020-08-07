@@ -20,4 +20,3 @@ A full-time open-hearted :purple_heart:, free-minded :sunglasses: and cat-lover 
  - :ghost: Co-working with _Angular, Vue.js and React_. Gosh, I love these guys. 
  - :bicyclist: Biking around this world learning how to always get to the point. 
  - :recycle: Far away from perfection, but geting there. Always smiling and making the best out of it.
- - :sparkles: @codepwr on instagram: tips for beginners and support for women in technology. Support women who code **, actually, support **_anyone_** who codes! But of course we **can do it**.
