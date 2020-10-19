@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/theladybirdx)](https://twitter.com/theladybirdx)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aesmeraldof@gmail.com)](mailto:aesmeraldof@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/alomands/)](https://www.instagram.com/alomands/)
-![](https://komarev.com/ghpvc/?username=amendx)
+![](https://komarev.com/ghpvc/?username=amendx&color=blueviolet&style=flat-square)
 
 ### Wow!! Be careful! We're working over here...
 
