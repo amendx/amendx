@@ -5,6 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/theladybirdx)](https://twitter.com/theladybirdx)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aesmeraldof@gmail.com)](mailto:aesmeraldof@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/alomands/)](https://www.instagram.com/alomands/)
+![](https://komarev.com/ghpvc/?username=amendx)
 
 ### Wow!! Be careful! We're working over here...
 
@@ -18,5 +19,3 @@ A full-time open-hearted :purple_heart:, free-minded :sunglasses: and cat-lover 
 
  - :green_heart: In love with **CSS & JavaScript**
  - :ghost: Co-working with _Angular, Vue.js and React_. Gosh, I love these guys. 
- - :bicyclist: Biking around this world learning how to always get to the point. 
- - :recycle: Far away from perfection, but geting there. Always smiling and making the best out of it.
