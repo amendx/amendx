@@ -12,7 +12,7 @@
 > This is my QA ... we're testing some new features..... :dizzy:
 
 But let's talk about *moi*! My name is Amanda and I'm a front-end developer.
-I'm  also a huge fan of sports, cats and **coooooofffeeeeee** :coffee:. 
+I'm  also a huge fan of sports, cats and **coooofffeeee** :coffee:. 
 
 A full-time open-hearted :purple_heart:, free-minded :sunglasses: and cat-lover person. :kissing_cat:
 
