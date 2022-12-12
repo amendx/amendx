@@ -11,7 +11,7 @@
 ![code-baby](https://i.pinimg.com/originals/c3/2b/fa/c32bfa16bcf864e478d3ddfe32440268.gif)
 > This is my QA ... we're testing some new features..... :dizzy:
 
-But let's talk about *moi*! My name is Amanda and I'm a front-end developer.
+But let's talk about *moi*! My name is Amanda and I'm a front-end developer. The thing is **I love everything too much**, and every task is a new chance to learn (learn how to fix the bug I just created...).
 I'm  also a huge fan of sports, cats and **coooofffeeee** :coffee:. 
 
 A full-time open-hearted :purple_heart:, free-minded :sunglasses: and cat-lover person. :kissing_cat:
