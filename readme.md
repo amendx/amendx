@@ -36,7 +36,8 @@ Here are a few things that make my heart flutter:
 <code><img height="25" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" title="npm"></code>
 <code><img height="25" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" title="Yarn"></code>
 <div>
- <div class="stats">
+<hr />
+  <div class="stats">
 
 ![Amendx's GitHub stats](https://github-readme-stats.vercel.app/api?username=amendx&show_icons=true)
  
