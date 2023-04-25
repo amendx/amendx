@@ -44,4 +44,3 @@ Here are a few things that make my heart flutter:
   ## Stats
 
   ![Amendx's GitHub stats](https://github-readme-stats.vercel.app/api?username=amendx&show_icons=true)
-    [![vue-dndrop](https://github-readme-stats.vercel.app/api/pin/?username=amendx&repo=vue-dndrop)](https://github.com/amendx/vue-dndrop)
