@@ -18,28 +18,30 @@ Here are a few things that make my heart flutter:
 - :notes: Playing guitar hero and singing (badly)
 - :cat: Snuggling with every cat I meet
 
-### Languages and tools:
-<div style="display: grid; grid-template-columns: repeat(2, 1fr);">
-  <div class="column">
-<code><img height="25" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript"></code>
-<code><img height="25" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vue" title="Vue"></code>
-<code><img height="25" src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="NuxtJs" title="NuxtJs"></code>
-<code><img height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" title="Angular"></code>
-<code><img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" title="React"></code>
-<code><img height="25" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" title="jQuery"></code>
-<code><img height="25" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" title="Jest"></code>
-<code><img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" title="HTML"></code>
-<code><img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" title="CSS"></code>
-<code><img height="25" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" title="Sass"></code>
-<code><img height="25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" title="Node.js"></code>
-<code><img height="25" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git" title="Git"></code>
-<code><img height="25" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" title="npm"></code>
-<code><img height="25" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" title="Yarn"></code>
-<div>
-<hr />
-  <div class="stats">
+## Languages and tools:
 
-![Amendx's GitHub stats](https://github-readme-stats.vercel.app/api?username=amendx&show_icons=true)
- 
- </div>
- </div>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr);">
+        <div>
+            <img height="25" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript " />
+            <img height="25" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vue" title="Vue " />
+            <img height="25" src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="NuxtJs" title="NuxtJs " />
+            <img height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" title="Angular " />
+            <img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" title="React " />
+            <img height="25" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" title="jQuery " />
+            <img height="25" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" title="Jest " />
+         </div>
+         <div>
+            <img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" title="HTML " />
+            <img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" title="CSS " />
+            <img height="25" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" title="Sass " />
+            <img height="25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" title="Node.js " />
+            <img height="25" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git" title="Git " />
+            <img height="25" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" title="npm " />
+            <img height="25" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" title="Yarn " />
+            <img height="25" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite" title="Vite " />
+  </div>
+
+  ## Stats
+
+  ![Amendx's GitHub stats](https://github-readme-stats.vercel.app/api?username=amendx&show_icons=true)
+    [![vue-dndrop](https://github-readme-stats.vercel.app/api/pin/?username=amendx&repo=vue-dndrop)](https://github.com/amendx/vue-dndrop)
