@@ -5,27 +5,18 @@
 ![code-baby](https://i.pinimg.com/originals/c3/2b/fa/c32bfa16bcf864e478d3ddfe32440268.gif)
 > This is my QA ... we're testing some new features..... :dizzy:
 
-
 But let's talk about **moi**!  
+I'm **Amanda**, a front-end engineer who loves learning new things (_including fixing the bugs I just created… it happens_).
 
-My name is **Amanda** and I'm a **front-end engineer**. The thing is: I love *everything* a little too much, and every task is a new chance to learn (including learning how to fix the bug I just created...).
+When I'm not building polished interfaces or hunting down rogue `!important's`, you can usually find me at the **gym**, meeting new people, or sharing programming horror stories over a cold brew.
 
-When I'm not busy crafting beautiful web applications or breaking my heart trying to figure out who placed a `!important` on a random `<div>` you can find me at the **gym**. I'm also a total **social butterfly**, always excited to meet new people and exchange programming horror stories over a nice cold brew.
+I also love creating little solutions that make everyday life easier — automating, organizing, simplifying… if it smooths the chaos, I’m in. ✨
 
-And one more thing: I absolutely **love** thinking about solutions that make our daily life easier. If there's a way to automate, organize, simplify, or turn pure chaos into something cute and functional, I'm already on it even if it ends up consuming my whole day.  
+### Want to see more of what I do?  
 
-Because honestly, nothing makes me happier than watching something work so smoothly that you think: **"Wow, this just made my life so much easier!"** ✨
+Check out my portfolio: **https://amendx.github.io/**
 
-
-
-Here are a few things that make my heart flutter:
-
-- :green_heart: In love with CSS & JavaScript
-- :ghost: Pair-programming with Vue.js, React and Angular
-- :muscle: Powerlifting and hitting the gym
-- :notes: Playing guitar hero and singing (badly)
-
-## 🚀 Languages & Tools
+## Languages & Tools
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
 
@@ -107,4 +98,5 @@ Here are a few things that make my heart flutter:
   ## Stats
   
   [![Amendx's GitHub stats](https://github-readme-stats.vercel.app/api?username=amendx)](https://github.com/amendx/github-readme-stats)
+
 
