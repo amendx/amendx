@@ -59,8 +59,6 @@ Check out my portfolio: **https://amendx.github.io/**
 <img height="25" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img height="25" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img height="25" src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img height="25" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-<img height="25" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 <img height="25" src="https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic" title="New Relic" />
 
 
@@ -101,6 +99,7 @@ Check out my portfolio: **https://amendx.github.io/**
   ## Stats
   
   [![Amendx's GitHub stats](https://github-readme-stats.vercel.app/api?username=amendx)](https://github.com/amendx/github-readme-stats)
+
 
 
 
